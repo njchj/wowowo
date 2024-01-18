@@ -5,4 +5,5 @@ payload:
   - DOMAIN,www.bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-SUFFIX,hub.docker.com
+  - DOMAIN,hub.docker.com
+  - DOMAIN,hub.docker.com
