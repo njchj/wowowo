@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,github.com,Proxies
-  - DOMAIN-SUFFIX,nn.ci,Proxies
-
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,nn.ci
+  - DOMAIN-SUFFIX,v2ex.com
