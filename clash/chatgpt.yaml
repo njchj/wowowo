@@ -4,4 +4,4 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,www.bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
-  - DOMAIN,hub.docker.com
+  - DOMAIN-SUFFIX,docker.io
