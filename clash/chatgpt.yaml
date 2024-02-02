@@ -8,4 +8,4 @@ payload:
   - DOMAIN,hub.docker.com
   - DOMAIN,www.docker.com
   - DOMAIN-SUFFIX,ibcl.us
-
+  - DOMAIN-SUFFIX,ai.google.dev
