@@ -9,3 +9,4 @@ payload:
   - DOMAIN,www.docker.com
   - DOMAIN-SUFFIX,ibcl.us
   - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,makersuite.google.com
