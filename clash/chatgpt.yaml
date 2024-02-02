@@ -7,3 +7,5 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN,hub.docker.com
   - DOMAIN,www.docker.com
+  - DOMAIN-SUFFIX,ibcl.us
+
