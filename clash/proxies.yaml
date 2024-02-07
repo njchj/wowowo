@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,nn.ci
-  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,mem.ai
   - DOMAIN-SUFFIX,you.com
 
