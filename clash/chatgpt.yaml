@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,discord.com
