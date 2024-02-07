@@ -13,3 +13,6 @@ payload:
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discord.gg
