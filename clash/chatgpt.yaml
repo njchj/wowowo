@@ -11,14 +11,9 @@ payload:
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,coze.com
-  - DOMAIN-SUFFIX,discord.co
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discord.media
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.net
-  - DOMAIN-SUFFIX,discord.com
-  - DOMAIN-SUFFIX,discord.gg
-  - DOMAIN-SUFFIX,discordapp.com
-  - DOMAIN-SUFFIX,discordapp.net
-  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,discordstatus.com
