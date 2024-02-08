@@ -21,3 +21,4 @@ payload:
   - DOMAIN,colab.research.google.com
   - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN,content-developerprofiles-pa.googleapis.com
+  - DOMAIN-SUFFIX,clients.google.com
