@@ -17,7 +17,7 @@ payload:
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-KEYWORD,colab
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,colab.research.google.com
   - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN,content-developerprofiles-pa.googleapis.com
