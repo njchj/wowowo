@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,clients6.google.com
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,play.google.com
+  - DOMAIN-SUFFIX,developers.google.com
