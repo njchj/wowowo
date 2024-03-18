@@ -3,4 +3,5 @@ payload:
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,mem.ai
   - DOMAIN-SUFFIX,you.com
+  - DOMAIN-SUFFIX,openrouter.ai
 
