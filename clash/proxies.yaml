@@ -16,4 +16,4 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,cws-docs.pages.dev
   - DOMAIN-SUFFIX,zhile.io
-   - DOMAIN-SUFFIX,economist.com
+  - DOMAIN-SUFFIX,economist.com
