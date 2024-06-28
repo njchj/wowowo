@@ -13,3 +13,5 @@ payload:
   - DOMAIN,yanyu.ltd
   - DOMAIN,client-api.pandoranext.com
   - DOMAIN,dash.pandoranext.com
+  - DOMAIN-SUFFIX,hwchina.eu.org
+  - DOMAIN-SUFFIX,sub.xijingping.gay
