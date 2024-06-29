@@ -15,3 +15,11 @@ payload:
   - DOMAIN,dash.pandoranext.com
   - DOMAIN-SUFFIX,hwchina.eu.org
   - DOMAIN-SUFFIX,sub.xijingping.gay
+  - DOMAIN-SUFFIX,dnsany.com
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,chinamobile.com
+  - DOMAIN-SUFFIX,mobaibox.com
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,cctv.cn
+  - DOMAIN-SUFFIX,yangshipin.cn
+  - DOMAIN,beesport.livednow.com
