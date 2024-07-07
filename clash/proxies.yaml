@@ -23,3 +23,4 @@ payload:
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,ygpy.net
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,docker.io
