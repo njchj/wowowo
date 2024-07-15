@@ -22,7 +22,6 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,ygpy.net
-  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,claudeapi.linuxdoer.tech
