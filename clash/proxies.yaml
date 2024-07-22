@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,frepai.com
+  - DOMAIN-SUFFIX,evolution-host.com
