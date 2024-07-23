@@ -1,15 +1,11 @@
 payload:
   - DOMAIN,clash.razord.top
-  - DOMAIN-SUFFIX,njcj.eu.org
-  - DOMAIN-SUFFIX,njchj.eu.org
-  - DOMAIN,njchj8680.msns.cn
   - DOMAIN,docker.xiaoya.pro
   - DOMAIN,yacd.haishan.me
   - DOMAIN,hub.nuaa.cf
   - DOMAIN,sub.xf.free.hr
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,git.metauniverse-cn.com
-  - DOMAIN,github.njchj8680.cf
   - DOMAIN,yanyu.ltd
   - DOMAIN,client-api.pandoranext.com
   - DOMAIN,dash.pandoranext.com
