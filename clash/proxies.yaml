@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,frepai.com
   - DOMAIN-SUFFIX,evolution-host.com
+  - DOMAIN-SUFFIX,v2ex.com
