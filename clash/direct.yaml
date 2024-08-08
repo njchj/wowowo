@@ -23,4 +23,6 @@ payload:
   - DOMAIN-SUFFIX,oaifree.com
   - DOMAIN-SUFFIX,ser00.net
   - DOMAIN-SUFFIX,tgso.pro
+  - DOMAIN-SUFFIX,gitdl.cn
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
   
