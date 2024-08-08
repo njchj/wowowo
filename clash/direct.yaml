@@ -25,4 +25,5 @@ payload:
   - DOMAIN-SUFFIX,tgso.pro
   - DOMAIN-SUFFIX,gitdl.cn
   - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,fastly.jsdelivr.net
   
