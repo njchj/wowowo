@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,gitdl.cn
   - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,fastly.jsdelivr.net
+  - DOMAIN-SUFFIX,msftconnecttest.com
