@@ -2,7 +2,6 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN,www.bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,ibcl.us
   - DOMAIN-SUFFIX,ai.google.dev
