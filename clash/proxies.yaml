@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,evolution-host.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,irine-sistiana.gitbook.io
-  - DOMAIN,wiki.metacubex.one
+  - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,cmliussss.com
   - DOMAIN-SUFFIX,809098.xyz
-  - DOMAIN-SUFFIX,metacubex.one
+  
