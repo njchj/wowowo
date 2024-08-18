@@ -10,6 +10,7 @@ payload:
   - DOMAIN,client-api.pandoranext.com
   - DOMAIN,dash.pandoranext.com
   - DOMAIN-SUFFIX,hwchina.eu.org
+  - DOMAIN-SUFFIX,huawei8680.dns.army
   - DOMAIN-SUFFIX,sub.xijingping.gay
   - DOMAIN-SUFFIX,dnsany.com
   - DOMAIN-SUFFIX,cmvideo.cn
@@ -28,4 +29,3 @@ payload:
   - DOMAIN-SUFFIX,fastly.jsdelivr.net
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,cloudnproxy.baidu.com
-  - DOMAIN-SUFFIX,huawei8680.dns.army
