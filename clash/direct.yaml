@@ -29,4 +29,3 @@ payload:
   - DOMAIN-SUFFIX,fastly.jsdelivr.net
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,cloudnproxy.baidu.com
-  - DOMAIN-SUFFIX,linux.do
