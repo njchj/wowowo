@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,fastly.jsdelivr.net
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,cloudnproxy.baidu.com
+  - DOMAIN,img-s-msn-com.akamaized.net
