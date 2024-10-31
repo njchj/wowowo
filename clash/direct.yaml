@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,cloudnproxy.baidu.com
   - DOMAIN,img-s-msn-com.akamaized.net
+  - DOMAIN-KEYWORD,wogg
