@@ -39,3 +39,4 @@ payload:
   - DOMAIN-SUFFIX,notdiamond.com
   - DOMAIN-SUFFIX,dckr.io
   - DOMAIN-SUFFIX,fresnostate.edu
+  - DOMAIN-SUFFIX,bsky.app
