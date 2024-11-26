@@ -30,3 +30,4 @@ payload:
   - DOMAIN-SUFFIX,cloudnproxy.baidu.com
   - DOMAIN,img-s-msn-com.akamaized.net
   - DOMAIN-KEYWORD,wogg
+  - DOMAIN-SUFFIX,duopan.fun
