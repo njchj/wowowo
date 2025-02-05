@@ -32,6 +32,7 @@ payload:
   - DOMAIN-KEYWORD,wogg
   - DOMAIN-SUFFIX,duopan.fun
   - DOMAIN,woog.nxog.eu.org
-  - DOMAIN,www.sony.com 
+  - DOMAIN,www.sony.com
+  - DOMAIN,myip.ipip.net
  # - DOMAIN,api.ipify.org
  # - DOMAIN,api-ipv4.ip.sb
