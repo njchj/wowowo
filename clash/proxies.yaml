@@ -65,3 +65,4 @@ payload:
   - DOMAIN-SUFFIX,muoupan.top
   - DOMAIN,nowplayer.now.com
   - DOMAIN,home.you.com
+  - DOMAIN-SUFFIX,lambda.chat
