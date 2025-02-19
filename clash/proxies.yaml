@@ -66,3 +66,7 @@ payload:
   - DOMAIN,nowplayer.now.com
   - DOMAIN,home.you.com
   - DOMAIN-SUFFIX,lambda.chat
+  - DOMAIN,mo.muouso.fun
+  - DOMAIN,mo.666291.xyz
+  - DOMAIN,tv.91muou.icu
+  
