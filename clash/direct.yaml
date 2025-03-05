@@ -36,3 +36,4 @@ payload:
   - DOMAIN,myip.ipip.net
   - DOMAIN,api.ipify.org
   - DOMAIN,api-ipv4.ip.sb
+  - DOMAIN,doh.dns.apple.com
