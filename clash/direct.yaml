@@ -35,3 +35,4 @@ payload:
   - DOMAIN,www.sony.com
   - DOMAIN,myip.ipip.net
   - DOMAIN,doh.dns.apple.com
+  - DOMAIN,doh.apad.pro
