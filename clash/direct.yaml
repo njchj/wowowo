@@ -36,3 +36,6 @@ payload:
   - DOMAIN,myip.ipip.net
   - DOMAIN,doh.dns.apple.com
   - DOMAIN,doh.apad.pro
+  - DOMAIN,myip.ipip.net
+  - DOMAIN,ip.3322.net
+  - DOMAIN,4.ipw.cn
