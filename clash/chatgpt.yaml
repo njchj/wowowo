@@ -27,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,freedidi.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,huggingface.co
