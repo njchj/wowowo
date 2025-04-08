@@ -61,6 +61,7 @@ payload:
   - DOMAIN,panel6.serv00.com
   - DOMAIN,panel8.serv00.com
   - DOMAIN,panel10.serv00.com
+  - DOMAIN,forum.serv00.com
   - DOMAIN-SUFFIX,mogg.top
   - DOMAIN-SUFFIX,muoupan.top
   - DOMAIN,nowplayer.now.com
