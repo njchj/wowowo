@@ -38,3 +38,4 @@ payload:
   - DOMAIN,myip.ipip.net
   - DOMAIN,ip.3322.net
   - DOMAIN,4.ipw.cn
+  - DOMAIN-SUFFIX,revohd.com
