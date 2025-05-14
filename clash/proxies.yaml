@@ -74,3 +74,4 @@ payload:
   - DOMAIN-SUFFIX,deno.com
   - DOMAIN-SUFFIX,postman.com
   - DOMAIN,board.zash.run.place
+  - DOMAIN-SUFFIX,claw.cloud
