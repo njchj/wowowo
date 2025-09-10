@@ -10,7 +10,7 @@ def convert_data():
         response.raise_for_status()  # 如果请求失败，则引发异常
         lines = response.text.strip().split('\n')
         
-        with open('bestcfv6_converted.txt', 'w') as f:
+        with open('cf/bestcfv6_converted.txt', 'w') as f:
             for i, line in enumerate(lines, 1):
                 # 假设原始文件中的每一行都包含了 IP 地址和端口，格式为 IP:PORT
                 # 如果格式不同，此处的处理逻辑需要相应调整
