@@ -29,6 +29,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add bestcfv6_converted.txt
+          git add cf/bestcfv6_converted.txt
           git diff-index --quiet HEAD || git commit -m "Update converted data"
           git push
