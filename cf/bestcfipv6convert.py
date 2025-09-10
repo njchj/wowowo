@@ -15,7 +15,7 @@ def convert_data():
                 # 假设原始文件中的每一行都包含了 IP 地址和端口，格式为 IP:PORT
                 # 如果格式不同，此处的处理逻辑需要相应调整
                 # 这里我们直接将整行作为地址部分
-                formatted_line = f"[{line}]:443#cfv6_${i}\n"
+                formatted_line = f"[{line}]:443#cfv6_{i}\n"
                 f.write(formatted_line)
         print("数据转换成功，已保存至 bestcfv6_converted.txt")
     except requests.exceptions.RequestException as e:
