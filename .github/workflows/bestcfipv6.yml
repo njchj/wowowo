@@ -23,7 +23,7 @@ jobs:
           pip install requests
 
       - name: Run data conversion script
-        run: python process_data.py
+        run: python /wowowo/cf/bestcfipv6convert.py
 
       - name: Commit and push if it changed
         run: |
