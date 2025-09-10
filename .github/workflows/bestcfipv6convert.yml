@@ -1,4 +1,4 @@
-name: bestcfipv6convert Conversion
+name: Bestcfipv6Convert Conversion
 
 on:
   workflow_dispatch:
@@ -8,11 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # --- 添加以下代码块来授予写入权限 ---
     permissions:
-      contents: write
-    # ------------------------------------
+      contents: write # 确保有写入权限
 
     steps:
       - name: Checkout repository
@@ -31,10 +28,17 @@ jobs:
       - name: Run data conversion script
         run: python cf/bestcfipv6convert.py
 
+      # --- 使用下面更稳健的脚本替换原来的提交步骤 ---
       - name: Commit and push if it changed
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cf/bestcfv6_converted.txt
-          git diff-index --quiet HEAD || git commit -m "Update converted data"
-          git push```
+          # 检查暂存区是否有变动
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            echo "Changes detected, creating commit."
+            git commit -m "Update converted data"
+            git push
+          fi
