@@ -45,3 +45,4 @@ payload:
   - DOMAIN,docker.1panel.live
   - DOMAIN,registry.npmjs.org
   - DOMAIN,jd.com
+  - DOMAIN,hubp.de
