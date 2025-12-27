@@ -46,3 +46,4 @@ payload:
   - DOMAIN,registry.npmjs.org
   - DOMAIN,jd.com
   - DOMAIN,hubp.de
+  - DOMAIN,dockerproxy.link
