@@ -86,4 +86,4 @@ payload:
   - DOMAIN-SUFFIX,serv00.net
   - DOMAIN-SUFFIX,fjj0417.dpdns.org
   - DOMAIN-SUFFIX,nextalone.nagram
-  - domain-suffix,linux.com
+  - DOMAIN-SUFFIX,linux.do
