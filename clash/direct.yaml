@@ -54,4 +54,4 @@ payload:
   - DOMAIN,www.muou.site
   - DOMAIN,mihdr.top
   - DOMAIN,film.symx.club
-  - DOMAIN,www.rrdynb.com
+  - DOMAIN-SUFFIX,rrdynb.com
