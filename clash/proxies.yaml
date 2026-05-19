@@ -89,4 +89,6 @@ payload:
   - DOMAIN-SUFFIX,vip.sd
   - DOMAIN-SUFFIX,whos.tv
   - DOMAIN-SUFFIX,hohoj.tv
-  - DOMAIN-SUFFIX,wdts.top
+  - DOMAIN-SUFFIX,wdts.top  
+  - DOMAIN,json.tingyou8.vip
+  - DOMAIN,json.fmfm.pro
