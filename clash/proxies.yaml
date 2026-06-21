@@ -90,7 +90,8 @@ payload:
   - DOMAIN-SUFFIX,whos.tv
   - DOMAIN-SUFFIX,hohoj.tv
   - DOMAIN-SUFFIX,wdts.top  
-  - DOMAIN,json.tingyou8.vip
+  - DOMAIN,json.tingyou8.vip 
   - DOMAIN,json.fmfm.pro
   - DOMAIN,zh.xhamster.com
   - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,cd.sd
