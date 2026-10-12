@@ -93,7 +93,9 @@ payload:
   - DOMAIN,json.tingyou8.vip 
   - DOMAIN,json.fmfm.pro
   - DOMAIN,zh.xhamster.com
+  - DOMAIN,zh.xhamster.com
   - DOMAIN-SUFFIX,xhcdn.com
   - DOMAIN-SUFFIX,cd.sd
   - DOMAIN-SUFFIX,pipedapi.kavin.rock
   - DOMAIN-SUFFIX,piped.video
+  - DOMAIN-SUFFIX,madou.club
